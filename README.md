@@ -1,4 +1,5 @@
 # MERN Task Manager App
+updated by Pavithra
 
 ![MERN Stack](https://img.shields.io/badge/MERN-Stack-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
@@ -156,7 +157,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Razak** - [GitHub](https://github.com/razak571)
+**PavithraVema** - [GitHub](https://github.com/PavithraVema)
 
 ---
 
